@@ -48,14 +48,14 @@ O sistema segue uma arquitetura em camadas:
 
 ### Backend
 
-cd backend
-./mvnw spring-boot:run
+- cd backend
+- ./mvnw spring-boot:run
 
 ### Frontend
 
-cd frontend
-npm install
-npm start
+- cd frontend
+- npm install
+- npm start
 
 ### 🛠️ Contribuições
 Este projeto foi desenvolvido em ambiente acadêmico e não está aberto a contribuições externas, mas forks são bem-vindos para fins de aprendizado e portfólio.
