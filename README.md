@@ -48,11 +48,11 @@ O sistema segue uma arquitetura em camadas:
 
 ### Backend
 
-```bash
 cd backend
 ./mvnw spring-boot:run
 
-Frontend
+### Frontend
+
 bash
 Copy
 Edit
@@ -61,19 +61,16 @@ npm install
 npm start
 Acesse em: http://localhost:3000
 
-🛠️ Contribuições
+### 🛠️ Contribuições
 Este projeto foi desenvolvido em ambiente acadêmico e não está aberto a contribuições externas, mas forks são bem-vindos para fins de aprendizado e portfólio.
 
-👨‍💻 Autores
+### 👨‍💻 Autores
 Antonio Carlos Sciamarelli Neto
 
 Henrique Árabe Neres de Farias
 
 Joaquim Rafael Mariano Prieto Pereira
 
-🔗 Links
-🔗 Repositório original
-
 🌐 Deploy Frontend (Vercel)
 
-▶️ Vídeo demonstrativo
+https://software-engineering-lab-o7v8.vercel.app
