@@ -53,13 +53,9 @@ cd backend
 
 ### Frontend
 
-bash
-Copy
-Edit
 cd frontend
 npm install
 npm start
-Acesse em: http://localhost:3000
 
 ### 🛠️ Contribuições
 Este projeto foi desenvolvido em ambiente acadêmico e não está aberto a contribuições externas, mas forks são bem-vindos para fins de aprendizado e portfólio.
